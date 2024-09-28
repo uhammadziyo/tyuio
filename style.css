@@ -1,0 +1,39 @@
+body{
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+
+}
+.todoput{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+}
+.img{
+    width: 300px;
+}
+.todo{
+    background-color: white;
+    width: 450px;
+    height: 450px;
+    border-radius: 10px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: orangered;
+    color: white;
+}
+.btn2{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: orangered;
+    color: white;
+}
